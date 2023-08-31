@@ -10,4 +10,4 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ## Diagramação 
 <img src="./assets/uml.png" width="100%" >
-O objetivo deste desafio é criar uma representação visual das classes e interfaces usando uma ferramenta de UML (Unified Modeling Language), destacando os diferentes papéis desempenhados pelo iPhone: MusicaPLayer (Reprodutor Musical), Phone (Aparelho Telefônico) e Browser (Navegador de Internet). Isso será realizado através da criação de diagramas de classes e interfaces, e a posterior implementação dessas classes e interfaces em arquivos .java, todos localizados na pasta 'src'.
+O objetivo deste desafio é criar uma representação visual das classes e interfaces usando uma ferramenta de UML (Unified Modeling Language), destacando os diferentes papéis desempenhados pelo iPhone: MusicPLayer (Reprodutor Musical), Phone (Aparelho Telefônico) e Browser (Navegador de Internet). Isso será realizado através da criação de diagramas de classes e interfaces, e a posterior implementação dessas classes e interfaces em arquivos .java, todos localizados na pasta 'src'.
